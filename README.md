@@ -18,7 +18,7 @@ Sử dụng laravel để quản lý dự án Quản lý khách sạn
 <h5>Trang chủ</h5>
 <img src ="https://pub-d9195d29f33243c7a4d4c49fe887131e.r2.dev/Home.PNG">
 <h5>Hiển thị phòng và đặt phòng online</h5>
-<img src ="https://pub-d9195d29f33243c7a4d4c49fe887131e.r2.dev/Home.PNG">
+<img src ="https://pub-d9195d29f33243c7a4d4c49fe887131e.r2.dev/Room">
 <img src ="https://pub-d9195d29f33243c7a4d4c49fe887131e.r2.dev/Pay.PNG">
 <h5>Tài khoản khách hàng</h5>
 <img src ="https://pub-d9195d29f33243c7a4d4c49fe887131e.r2.dev/Account.PNG">
