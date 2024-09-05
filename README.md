@@ -10,7 +10,7 @@ Sử dụng laravel để quản lý dự án Quản lý khách sạn
          <li>Quản lý phòng, quản lý nhận phòng, quản lý đặt phòng, quản lý trả phòng.</li>
          <li>Sáng tạo ảnh bằng AI.</li>
     </ul>
-    <span style="font-weight:bold">Công nghệ sử dụng: PHP, MySQL, Pusher, Python, Generative AI (Comfyui)</span>
+    <span style="font-weight:bold">Công nghệ sử dụng: PHP, MySQL, Pusher, Python, Generative AI</span>
 </p>
 
 <h1>Khách Sạn GTX</h1>
